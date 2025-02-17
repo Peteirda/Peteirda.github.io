@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GitHub 测试主页"
+
 author_profile: true
 redirect_from:
   - /about/
