@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xin Yao"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "Xin Yao"
 description              : &description "personal description"
