@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "GitHub 测试主页"
+title: "欢迎！"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,17 +9,4 @@ redirect_from:
 
 
 
-
-
-
-
-
-
-
-
-
-## 公式测试
-
-$$
-∫_0^∞F (s)= f (t)e^ {-st}dt
-$$
+> 一事无成，仍然坚强！
