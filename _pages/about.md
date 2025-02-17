@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-仅作为测试文案
-
 公式测试
 ========
 
