@@ -2,7 +2,7 @@
 title: "科学上网"
 collection: publications
 category: conferences
-permalink: /publication/科学上网
+permalink: /publication/science
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
